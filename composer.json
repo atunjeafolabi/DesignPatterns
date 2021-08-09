@@ -1,0 +1,18 @@
+{
+    "name": "atunje/design-patterns",
+    "description": "Implementation of various design patterns",
+    "authors": [
+        {
+            "name": "Atunje",
+            "email": "atunje_afolabi@yahoo.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\" : "."
+        }
+    }
+}
