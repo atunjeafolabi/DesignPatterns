@@ -1,6 +1,9 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace DesignPatterns\Creational\AbstractFactory\Tests;
+
 use DesignPatterns\Creational\AbstractFactory\CsvWriter;
 use DesignPatterns\Creational\AbstractFactory\JsonWriter;
 use DesignPatterns\Creational\AbstractFactory\UnixWriterFactory;
