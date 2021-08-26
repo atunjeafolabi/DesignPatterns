@@ -12,7 +12,7 @@ use PHPUnit\Framework\TestCase;
 
 class CompositeTwoTest extends TestCase
 {
-    public function testRender()
+    public function testGetNetSalaries()
     {
         // Prepare the employees
         $john = new Developer('John Doe', 12000);
