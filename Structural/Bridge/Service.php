@@ -6,8 +6,8 @@ namespace DesignPatterns\Structural\Bridge;
 
 abstract class Service
 {
-    public function __construct(protected Formatter $implementation)
-    {
+    public function __construct(protected Formatter $implementation){
+
     }
 
 public function setImplementation(Formatter $printer)

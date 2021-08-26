@@ -14,5 +14,8 @@
         "psr-4": {
             "DesignPatterns\\" : "."
         }
+    },
+    "scripts": {
+        "test" : "./vendor/bin/phpunit Tests"
     }
 }
