@@ -4,12 +4,12 @@ declare(strict_types=1);
 
 namespace DesignPatterns\Structural\Composite\Tests;
 
-use DesignPatterns\Structural\Composite\Form;
-use DesignPatterns\Structural\Composite\TextElement;
-use DesignPatterns\Structural\Composite\InputElement;
+use DesignPatterns\Structural\Composite\ExampleOne\Form;
+use DesignPatterns\Structural\Composite\ExampleOne\TextElement;
+use DesignPatterns\Structural\Composite\ExampleOne\InputElement;
 use PHPUnit\Framework\TestCase;
 
-class CompositeTest extends TestCase
+class CompositeOneTest extends TestCase
 {
     public function testRender()
     {
