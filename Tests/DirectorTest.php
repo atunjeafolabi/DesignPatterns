@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DesignPatterns\Creational\Builder\Tests;
+namespace DesignPatterns\Tests;
 
 use DesignPatterns\Creational\Builder\Parts\Car;
 use DesignPatterns\Creational\Builder\Parts\Truck;

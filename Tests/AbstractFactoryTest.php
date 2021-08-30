@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DesignPatterns\Creational\AbstractFactory\Tests;
+namespace DesignPatterns\Tests;
 
 use DesignPatterns\Creational\AbstractFactory\CsvWriter;
 use DesignPatterns\Creational\AbstractFactory\JsonWriter;

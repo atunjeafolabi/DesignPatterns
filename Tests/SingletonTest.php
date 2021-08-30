@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DesignPatterns\Creational\Singleton\Tests;
+namespace DesignPatterns\Tests;
 
 use DesignPatterns\Creational\Singleton\Singleton;
 use PHPUnit\Framework\TestCase;

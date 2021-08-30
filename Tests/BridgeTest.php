@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DesignPatterns\Structural\Bridge\Tests;
+namespace DesignPatterns\Tests;
 
 use DesignPatterns\Structural\Bridge\HelloWorldService;
 use DesignPatterns\Structural\Bridge\HtmlFormatter;
