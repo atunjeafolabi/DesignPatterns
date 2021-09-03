@@ -10,6 +10,5 @@ language (like English).
 Examples
 --------
 
--  Doctrine2's QueryBuilder works something like that example class
-   below
+-  Doctrine2's QueryBuilder
 -  PHPUnit uses fluent interfaces to build mock objects
