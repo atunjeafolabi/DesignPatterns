@@ -1,9 +1,9 @@
 <?php
 
-use DesignPatterns\Behavioural\Command\Bulb;
-use DesignPatterns\Behavioural\Command\RemoteControl;
-use DesignPatterns\Behavioural\Command\TurnOff;
-use DesignPatterns\Behavioural\Command\TurnOn;
+use DesignPatterns\Behavioral\Command\Bulb;
+use DesignPatterns\Behavioral\Command\RemoteControl;
+use DesignPatterns\Behavioral\Command\TurnOff;
+use DesignPatterns\Behavioral\Command\TurnOn;
 
 require_once "../../vendor/autoload.php";
 

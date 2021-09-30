@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Mediator;
+namespace DesignPatterns\Behavioral\Mediator;
 
 // Mediator
 class ChatRoom implements ChatRoomMediator

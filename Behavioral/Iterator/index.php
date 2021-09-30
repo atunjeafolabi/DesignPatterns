@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Iterator;
+namespace DesignPatterns\Behavioral\Iterator;
 
 require_once "../../vendor/autoload.php";
 

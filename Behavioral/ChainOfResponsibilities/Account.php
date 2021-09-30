@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DesignPatterns\Behavioural\ChainOfResponsibilities;
+namespace DesignPatterns\Behavioral\ChainOfResponsibilities;
 
 abstract class Account
 {

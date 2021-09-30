@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Iterator;
+namespace DesignPatterns\Behavioral\Iterator;
 
 use Countable;
 use Iterator;

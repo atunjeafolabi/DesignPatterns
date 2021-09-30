@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Command;
+namespace DesignPatterns\Behavioral\Command;
 
 interface Command
 {

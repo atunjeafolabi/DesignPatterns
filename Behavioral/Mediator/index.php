@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Mediator;
+namespace DesignPatterns\Behavioral\Mediator;
 
 require_once "../../vendor/autoload.php";
 

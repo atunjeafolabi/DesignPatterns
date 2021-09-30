@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Observer;
+namespace DesignPatterns\Behavioral\Observer;
 
 require_once "../../vendor/autoload.php";
 

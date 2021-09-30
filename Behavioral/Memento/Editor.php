@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioural\Memento;
+namespace DesignPatterns\Behavioral\Memento;
 
 class Editor
 {
