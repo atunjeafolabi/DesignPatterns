@@ -4,12 +4,12 @@ declare(strict_types=1);
 
 namespace DesignPatterns\Tests;
 
-use DesignPatterns\Structural\Bridge\HelloWorldService;
-use DesignPatterns\Structural\Bridge\HtmlFormatter;
-use DesignPatterns\Structural\Bridge\PlainTextFormatter;
+use DesignPatterns\Structural\Bridge\ExampleOne\HelloWorldService;
+use DesignPatterns\Structural\Bridge\ExampleOne\HtmlFormatter;
+use DesignPatterns\Structural\Bridge\ExampleOne\PlainTextFormatter;
 use PHPUnit\Framework\TestCase;
 
-class BridgeTest extends TestCase
+class BridgeOneTest extends TestCase
 {
     public function testCanPrintUsingThePlainTextFormatter()
     {

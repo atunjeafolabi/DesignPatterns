@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DesignPatterns\Structural\Bridge;
+namespace DesignPatterns\Structural\Bridge\ExampleOne;
 
 interface Formatter
 {
